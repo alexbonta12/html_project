@@ -1,0 +1,37 @@
+body {
+        background-image: linear-gradient(rgb(110, 174, 227),rgb(195, 158, 233),rgb(236, 159, 194));
+  }
+  h1 {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    color: #281852;
+    font-family: "Blueberry Script";
+  }
+  h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    color: #281852;
+    font-family: "Helvetica";
+  }
+  p {
+    color: #000000;
+    font-family: "Helvetica";
+
+  }
+  .profilepic{
+    flex: 1;
+  }
+  ul {
+    color: #000000;
+    font-family: "Helvetica" ;
+  }
+
+  img {
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+  }
